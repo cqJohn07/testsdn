@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/eden/.cache/upstart/unity-settings-daemon.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/hud.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/upstart-event-bridge.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/indicator-session.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/unity-panel-service.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/ssh-agent.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/gnome-keyring-ssh.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/indicator-sound.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/unity7.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/update-notifier-release.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/gpg-agent.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/dbus.log" 2020-1-31-20:31:47
+"/home/eden/.cache/upstart/unity-panel-service-lockscreen.log" 2020-1-31-7:48:47
+"/home/eden/.cache/upstart/window-stack-bridge.log" 2020-1-31-20:31:47
